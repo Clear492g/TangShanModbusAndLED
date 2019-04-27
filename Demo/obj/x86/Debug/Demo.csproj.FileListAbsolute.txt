@@ -1,0 +1,87 @@
+F:\Demo\Demo(C#)\Demo\bin\x86\Debug\Demo.exe
+F:\Demo\Demo(C#)\Demo\bin\x86\Debug\Demo.pdb
+F:\Demo\Demo(C#)\Demo\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Demo\Demo(C#)\Demo\obj\x86\Debug\Demo.Form1.resources
+F:\Demo\Demo(C#)\Demo\obj\x86\Debug\Demo.Properties.Resources.resources
+F:\Demo\Demo(C#)\Demo\obj\x86\Debug\Demo.csproj.GenerateResource.Cache
+F:\Demo\Demo(C#)\Demo\obj\x86\Debug\Demo.exe
+F:\Demo\Demo(C#)\Demo\obj\x86\Debug\Demo.pdb
+F:\Demo\Demo(C#)\Demo\bin\Debug\Demo.exe
+F:\Demo\Demo(C#)\Demo\bin\Debug\Demo.pdb
+C:\Users\Administrator\Desktop\Demo(C#)\Demo\obj\x86\Debug\Demo.exe
+C:\Users\Administrator\Desktop\Demo(C#)\Demo\obj\x86\Debug\Demo.pdb
+C:\Users\Administrator\Desktop\Demo(C#)\Demo\bin\Debug\Demo.exe
+C:\Users\Administrator\Desktop\Demo(C#)\Demo\bin\Debug\Demo.pdb
+C:\Users\Administrator\Desktop\Demo(C#)\Demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Demo(C#)\Demo\obj\x86\Debug\Demo.Form1.resources
+C:\Users\Administrator\Desktop\Demo(C#)\Demo\obj\x86\Debug\Demo.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Demo(C#)\Demo\obj\x86\Debug\Demo.csproj.GenerateResource.Cache
+F:\work\prj\2017\d达诚linama\Demo(C#)\Demo(C#)\Demo\obj\x86\Debug\Demo.exe
+F:\work\prj\2017\d达诚linama\Demo(C#)\Demo(C#)\Demo\obj\x86\Debug\Demo.pdb
+F:\work\prj\2017\d达诚linama\Demo(C#)\Demo(C#)\Demo\bin\Debug\Demo.exe
+F:\work\prj\2017\d达诚linama\Demo(C#)\Demo(C#)\Demo\bin\Debug\Demo.pdb
+F:\work\prj\2017\d达诚linama\Demo(C#)\Demo(C#)\Demo\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\work\prj\2017\d达诚linama\Demo(C#)\Demo(C#)\Demo\obj\x86\Debug\Demo.Form1.resources
+F:\work\prj\2017\d达诚linama\Demo(C#)\Demo(C#)\Demo\obj\x86\Debug\Demo.Properties.Resources.resources
+F:\work\prj\2017\d达诚linama\Demo(C#)\Demo(C#)\Demo\obj\x86\Debug\Demo.csproj.GenerateResource.Cache
+F:\work\prj\2017\y岳姐\Demo(C#)\Demo(C#)\Demo\obj\x86\Debug\Demo.exe
+F:\work\prj\2017\y岳姐\Demo(C#)\Demo(C#)\Demo\obj\x86\Debug\Demo.pdb
+F:\work\prj\2017\y岳姐\Demo(C#)\Demo(C#)\Demo\bin\Debug\Demo.exe
+F:\work\prj\2017\y岳姐\Demo(C#)\Demo(C#)\Demo\bin\Debug\Demo.pdb
+F:\work\prj\2017\y岳姐\Demo(C#)\Demo(C#)\Demo\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\work\prj\2017\y岳姐\Demo(C#)\Demo(C#)\Demo\obj\x86\Debug\Demo.Form1.resources
+F:\work\prj\2017\y岳姐\Demo(C#)\Demo(C#)\Demo\obj\x86\Debug\Demo.Properties.Resources.resources
+F:\work\prj\2017\y岳姐\Demo(C#)\Demo(C#)\Demo\obj\x86\Debug\Demo.csproj.GenerateResource.Cache
+G:\work\prj\2017\y岳姐\Demo(C#)\Demo(C#)\Demo\bin\Debug\Demo.exe
+G:\work\prj\2017\y岳姐\Demo(C#)\Demo(C#)\Demo\bin\Debug\Demo.pdb
+G:\work\prj\2017\y岳姐\Demo(C#)\Demo(C#)\Demo\obj\x86\Debug\Demo.Form1.resources
+G:\work\prj\2017\y岳姐\Demo(C#)\Demo(C#)\Demo\obj\x86\Debug\Demo.Properties.Resources.resources
+G:\work\prj\2017\y岳姐\Demo(C#)\Demo(C#)\Demo\obj\x86\Debug\Demo.csproj.GenerateResource.Cache
+G:\work\prj\2017\y岳姐\Demo(C#)\Demo(C#)\Demo\obj\x86\Debug\Demo.exe
+G:\work\prj\2017\y岳姐\Demo(C#)\Demo(C#)\Demo\obj\x86\Debug\Demo.pdb
+G:\work\prj\2017\y岳姐\Demo(C#)\Demo(C#)\Demo\obj\x86\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\20155\Desktop\aaa\Demo(C#) 黄骅电厂\Demo(C#)\Demo\bin\Debug\Demo.exe
+C:\Users\20155\Desktop\aaa\Demo(C#) 黄骅电厂\Demo(C#)\Demo\bin\Debug\Demo.pdb
+C:\Users\20155\Desktop\aaa\Demo(C#) 黄骅电厂\Demo(C#)\Demo\obj\x86\Debug\Demo.csprojAssemblyReference.cache
+C:\Users\20155\Desktop\aaa\Demo(C#) 黄骅电厂\Demo(C#)\Demo\obj\x86\Debug\Demo.Form1.resources
+C:\Users\20155\Desktop\aaa\Demo(C#) 黄骅电厂\Demo(C#)\Demo\obj\x86\Debug\Demo.Properties.Resources.resources
+C:\Users\20155\Desktop\aaa\Demo(C#) 黄骅电厂\Demo(C#)\Demo\obj\x86\Debug\Demo.csproj.GenerateResource.cache
+C:\Users\20155\Desktop\aaa\Demo(C#) 黄骅电厂\Demo(C#)\Demo\obj\x86\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\20155\Desktop\aaa\Demo(C#) 黄骅电厂\Demo(C#)\Demo\obj\x86\Debug\Demo.exe
+C:\Users\20155\Desktop\aaa\Demo(C#) 黄骅电厂\Demo(C#)\Demo\obj\x86\Debug\Demo.pdb
+C:\Users\20155\Desktop\modbus\Demo(C#) 黄骅电厂\Demo(C#)\Demo\bin\Debug\Demo.exe
+C:\Users\20155\Desktop\modbus\Demo(C#) 黄骅电厂\Demo(C#)\Demo\bin\Debug\Demo.pdb
+C:\Users\20155\Desktop\modbus\Demo(C#) 黄骅电厂\Demo(C#)\Demo\obj\x86\Debug\Demo.csprojAssemblyReference.cache
+C:\Users\20155\Desktop\modbus\Demo(C#) 黄骅电厂\Demo(C#)\Demo\obj\x86\Debug\Demo.Form1.resources
+C:\Users\20155\Desktop\modbus\Demo(C#) 黄骅电厂\Demo(C#)\Demo\obj\x86\Debug\Demo.Properties.Resources.resources
+C:\Users\20155\Desktop\modbus\Demo(C#) 黄骅电厂\Demo(C#)\Demo\obj\x86\Debug\Demo.csproj.GenerateResource.cache
+C:\Users\20155\Desktop\modbus\Demo(C#) 黄骅电厂\Demo(C#)\Demo\obj\x86\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\20155\Desktop\modbus\Demo(C#) 黄骅电厂\Demo(C#)\Demo\obj\x86\Debug\Demo.exe
+C:\Users\20155\Desktop\modbus\Demo(C#) 黄骅电厂\Demo(C#)\Demo\obj\x86\Debug\Demo.pdb
+C:\Users\20155\Desktop\modbus\Demo(C#)\Demo(C#)\Demo\bin\Debug\Demo.exe
+C:\Users\20155\Desktop\modbus\Demo(C#)\Demo(C#)\Demo\bin\Debug\Demo.pdb
+C:\Users\20155\Desktop\modbus\Demo(C#)\Demo(C#)\Demo\obj\x86\Debug\Demo.csprojAssemblyReference.cache
+C:\Users\20155\Desktop\modbus\Demo(C#)\Demo(C#)\Demo\obj\x86\Debug\Demo.Form1.resources
+C:\Users\20155\Desktop\modbus\Demo(C#)\Demo(C#)\Demo\obj\x86\Debug\Demo.Properties.Resources.resources
+C:\Users\20155\Desktop\modbus\Demo(C#)\Demo(C#)\Demo\obj\x86\Debug\Demo.csproj.GenerateResource.cache
+C:\Users\20155\Desktop\modbus\Demo(C#)\Demo(C#)\Demo\obj\x86\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\20155\Desktop\modbus\Demo(C#)\Demo(C#)\Demo\obj\x86\Debug\Demo.exe
+C:\Users\20155\Desktop\modbus\Demo(C#)\Demo(C#)\Demo\obj\x86\Debug\Demo.pdb
+C:\Users\20155\Desktop\Nowing\modbus\方案一\Demo(C#)\Demo(C#)\Demo\obj\x86\Debug\Demo.csprojAssemblyReference.cache
+C:\Users\20155\Desktop\Nowing\modbus\方案一\Demo(C#)\Demo(C#)\Demo\obj\x86\Debug\Demo.Form1.resources
+C:\Users\20155\Desktop\Nowing\modbus\方案一\Demo(C#)\Demo(C#)\Demo\obj\x86\Debug\Demo.Properties.Resources.resources
+C:\Users\20155\Desktop\Nowing\modbus\方案一\Demo(C#)\Demo(C#)\Demo\obj\x86\Debug\Demo.csproj.GenerateResource.cache
+C:\Users\20155\Desktop\Nowing\modbus\方案一\Demo(C#)\Demo(C#)\Demo\obj\x86\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\20155\Desktop\Nowing\modbus\方案一\Demo(C#)\Demo(C#)\Demo\obj\x86\Debug\Demo.exe
+C:\Users\20155\Desktop\Nowing\modbus\方案一\Demo(C#)\Demo(C#)\Demo\obj\x86\Debug\Demo.pdb
+C:\Users\20155\Desktop\Nowing\modbus\方案一\Demo(C#)\Demo(C#)\Demo\bin\Debug\Demo.exe
+C:\Users\20155\Desktop\Nowing\modbus\方案一\Demo(C#)\Demo(C#)\Demo\bin\Debug\Demo.pdb
+C:\Users\20155\Desktop\Nowing\modbus\方案3\Demo(C#)\Demo(C#)\Demo\bin\Debug\Demo.exe
+C:\Users\20155\Desktop\Nowing\modbus\方案3\Demo(C#)\Demo(C#)\Demo\bin\Debug\Demo.pdb
+C:\Users\20155\Desktop\Nowing\modbus\方案3\Demo(C#)\Demo(C#)\Demo\obj\x86\Debug\Demo.csprojAssemblyReference.cache
+C:\Users\20155\Desktop\Nowing\modbus\方案3\Demo(C#)\Demo(C#)\Demo\obj\x86\Debug\Demo.Form1.resources
+C:\Users\20155\Desktop\Nowing\modbus\方案3\Demo(C#)\Demo(C#)\Demo\obj\x86\Debug\Demo.Properties.Resources.resources
+C:\Users\20155\Desktop\Nowing\modbus\方案3\Demo(C#)\Demo(C#)\Demo\obj\x86\Debug\Demo.csproj.GenerateResource.cache
+C:\Users\20155\Desktop\Nowing\modbus\方案3\Demo(C#)\Demo(C#)\Demo\obj\x86\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\20155\Desktop\Nowing\modbus\方案3\Demo(C#)\Demo(C#)\Demo\obj\x86\Debug\Demo.exe
+C:\Users\20155\Desktop\Nowing\modbus\方案3\Demo(C#)\Demo(C#)\Demo\obj\x86\Debug\Demo.pdb
